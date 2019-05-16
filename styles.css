@@ -1,0 +1,22 @@
+.title {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.form-field {
+    display: inline;
+}
+
+.all-form-fields {
+    margin-bottom: 10px;
+}
+
+#banner {
+    background-color: yellow;
+    height: 300px;
+    width: 500px;
+}
+
+.is-hidden {
+    display: none;
+}
